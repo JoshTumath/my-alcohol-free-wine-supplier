@@ -8,7 +8,7 @@ To run the program, use this command:
 node index.js
 ```
 
-By default, the program runs on port 3001. To specify your own port number, use this command:
+By default, the program runs on port 80. To specify your own port number, use this command:
 
 ```
 node index.js 3002
