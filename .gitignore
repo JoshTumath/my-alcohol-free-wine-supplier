@@ -1,3 +1,6 @@
+# Project specific
+orders*.txt
+
 # Logs
 logs
 *.log
